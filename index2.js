@@ -9,8 +9,8 @@
 // console.log(result)
 
 
-const answers = []
-answers.push(prompt('Как вас зовут?', ''))
-answers.push(+prompt('Сколько вам лет?', ''))
-answers.push(prompt('Какое ваше хобби?', ''))
-console.log(answers)
+// const answers = []
+// answers.push(prompt('Как вас зовут?', ''))
+// answers.push(+prompt('Сколько вам лет?', ''))
+// answers.push(prompt('Какое ваше хобби?', ''))
+// console.log(answers)
