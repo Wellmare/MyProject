@@ -14,3 +14,8 @@
 // answers.push(+prompt('Сколько вам лет?', ''))
 // answers.push(prompt('Какое ваше хобби?', ''))
 // console.log(answers)
+
+console.log('BRBRBRBRBRBRBRBRBRBR')
+console.log('BRBRBRBRBRBRBRBRBRBR')
+console.log('BRBRBRBRBRBRBRBRBRBR')
+console.log('BRBRBRBRBRBRBRBRBRBR')
